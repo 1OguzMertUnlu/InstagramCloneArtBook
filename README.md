@@ -1,2 +1,7 @@
 # InstagramCloneArtBook
- a simple instagram-like art book for android phones
+ 
+ A simple instagram-like art book for android phones.
+ 
+ RecyclerView work.
+ 
+ Firebase activeted.
